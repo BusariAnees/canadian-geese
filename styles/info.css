@@ -1,0 +1,54 @@
+header{
+    margin: 64px;
+    font-family: 'Oswald';
+}
+
+#heading-1{
+
+font-size: 3.5rem;
+color:  rgb(255, 132, 0);
+margin-bottom: 50px;
+}
+
+img{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    display: inline;
+    margin: -50px 0 10px 0;
+    border: 1px solid rgb(244, 145, 6);
+}
+#paragraph-1{
+    font-size: 2rem;
+    color: rgb(97,47,47);
+    background-color: rgb(185 206 224);
+    display: inline;
+    padding: 12px 48px;
+    border-radius: 5px;
+    border: 1px solid rgb(185 206 224);
+
+}
+
+ol{
+    list-style: none;
+    width: 1200px;
+    margin: 30px auto 0 auto;
+    padding: 0px;
+}
+
+.notes{
+    background-color: rgb(149, 179, 189);
+    border-radius: 5px;
+    border: 1px solid rgb(149, 179, 189);
+    padding:5px ;
+    margin: 50px;
+    box-shadow: 5px 2px 8px rgb(0, 0, 0.3);
+}
+
+.heading-font{
+    font-size: 2rem;
+}
+ol p{
+   font-size: 1.5rem;
+}
+

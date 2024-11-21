@@ -1,0 +1,36 @@
+
+.inner-border{
+    margin-top: 100px;
+    border-radius: 50%;
+    border:  solid rgb(244, 145, 6);
+    display: inline-block;
+    padding: 0;
+}
+img{
+   
+   border-radius: 50%;
+   height: 200px;
+   width: 200px;
+   display: block;
+}
+h1{
+    font-family: 'fira Sans';
+    color: black;
+    font-size: 3rem;
+    margin-bottom:0px ;
+}
+ul{
+    list-style-type:none ;
+    padding: 0;
+    border-top: 2px solid rgb(23, 193, 222);
+    margin: 0px auto 100px auto;
+    font-size: 2rem;
+    width: 1300px;
+}
+
+h2{
+    color: rgb(255, 132, 0);
+    font-size: 2.5rem;
+    
+}
+
